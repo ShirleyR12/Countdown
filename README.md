@@ -7,7 +7,7 @@
 
 Made with HTML, CSS and JAVASCRIPT technologies
 
-VS code editor used for coding.
+VS Code editor used for coding. 
 
 > NOTE: You need to have Git installed on your machine if you want to download
 
