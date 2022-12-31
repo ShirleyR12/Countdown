@@ -14,7 +14,7 @@ VS code editor used for coding.
 * To download the project to your machine, type the command:
 
 ```
-git clone 
+git clone https://github.com/ShirleyR12/Countdown.git
 ```
 
 
